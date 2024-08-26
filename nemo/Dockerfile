@@ -6,7 +6,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM nvcr.io/nvidia/nemo:24.05
+FROM nvcr.io/nvidia/nemo:24.05.llama3.1
 #FROM nvcr.io/nvidia/nemo:24.03.01.framework
 WORKDIR /workspace
 
